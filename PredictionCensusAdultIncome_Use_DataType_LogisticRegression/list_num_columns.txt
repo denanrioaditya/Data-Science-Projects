@@ -1,0 +1,1 @@
+['age', 'education_num', 'hours_per_week']
